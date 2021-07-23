@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MAC bullshit
+.DS*
+
+# Figures not to be pushed
