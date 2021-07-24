@@ -131,4 +131,4 @@ dmypy.json
 # MAC bullshit
 .DS*
 
-# Figures not to be pushed
+*.zip
